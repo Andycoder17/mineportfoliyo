@@ -1,14 +1,14 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Portfolio 
+subtitle: by IIST-AI-ML CLUB
+email: anmol.sc22b088@ug.iist.ac.in
+description: A beginner coder and programmer 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Don,t live on earth
+city:
+state: 
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
